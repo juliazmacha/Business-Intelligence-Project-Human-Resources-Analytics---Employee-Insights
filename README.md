@@ -76,6 +76,8 @@ This Business Intelligence (BI) project is designed for a comprehensive analysis
 The project employs advanced BI skills, utilizing data modeling techniques, DAX language for robust analysis, and thorough data cleaning and manipulation. The goal is to provide actionable insights to HR data, facilitating operational enhancements, pointing out employees due for retention/promotion, and checking employee well-being within the company.
 
 **DAX used to calculate employees due for promotion and percentage of employees due for promotion.**
+![due_for_pro](https://github.com/juliazmacha/Business-Intelligence-Project-Human-Resources-Analytics---Employee-Insights/assets/115115006/c9722dd9-a2de-44cb-bd26-08b129f20412)
+![due_for_pro_per](https://github.com/juliazmacha/Business-Intelligence-Project-Human-Resources-Analytics---Employee-Insights/assets/115115006/cea747de-2437-4344-a30a-3f03e0600fba)
 
 **DAX used to figure out the number of females from all employees.**
 
