@@ -80,5 +80,5 @@ The project employs advanced BI skills, utilizing data modeling techniques, DAX 
 ![due_for_pro_per](https://github.com/juliazmacha/Business-Intelligence-Project-Human-Resources-Analytics---Employee-Insights/assets/115115006/cea747de-2437-4344-a30a-3f03e0600fba)
 
 **DAX used to figure out the number of females from all employees.**
-
+![female ](https://github.com/juliazmacha/Business-Intelligence-Project-Human-Resources-Analytics---Employee-Insights/assets/115115006/4b89cfd0-6510-4003-8ee2-a1da6ace60e2)
 
